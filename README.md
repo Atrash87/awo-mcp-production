@@ -265,11 +265,3 @@ MIT License
 5. Open a Pull Request.
 
 ---
-
-## Contact
-
-For questions or support, please reach out to the team.
-
----
-
-**Happy querying! 🚀**

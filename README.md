@@ -224,6 +224,11 @@ python client.py
 * Configure Claude Desktop to use a remote endpoint when supported.
 
 ---
+## Demo with Claude Desktop
+
+Here a video of the demo with Claude Desktop:
+
+![AWO MCP Demo with Claude Desktop](assets/awo_mcp_claude_demo.gif)
 
 ## Troubleshooting
 
